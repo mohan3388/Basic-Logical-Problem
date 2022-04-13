@@ -1,0 +1,15 @@
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\bin\Debug\net6.0\BasicLogicProblem.exe
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\bin\Debug\net6.0\BasicLogicProblem.deps.json
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\bin\Debug\net6.0\BasicLogicProblem.runtimeconfig.json
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\bin\Debug\net6.0\BasicLogicProblem.dll
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\bin\Debug\net6.0\BasicLogicProblem.pdb
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\BasicLogicProblem.csproj.AssemblyReference.cache
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\BasicLogicProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\BasicLogicProblem.AssemblyInfoInputs.cache
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\BasicLogicProblem.AssemblyInfo.cs
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\BasicLogicProblem.csproj.CoreCompileInputs.cache
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\BasicLogicProblem.dll
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\refint\BasicLogicProblem.dll
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\BasicLogicProblem.pdb
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\BasicLogicProblem.genruntimeconfig.cache
+D:\logic2\Basic-Logical-Problem\BasicLogicProblem\obj\Debug\net6.0\ref\BasicLogicProblem.dll
